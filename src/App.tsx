@@ -20,6 +20,9 @@ function App() {
     { name: 'Phalcon', level: 90, icon: <Palette className="w-5 h-5" /> },
     { name: 'Responsive Design', level: 96, icon: <Smartphone className="w-5 h-5" /> },
     { name: 'Performance Optimization', level: 87, icon: <Zap className="w-5 h-5" /> },
+
+    // @Jk20022019
+    // kariukijanet58@gmail.com
   ];
 
   const projects = [
